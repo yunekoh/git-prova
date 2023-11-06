@@ -5,7 +5,13 @@ const pageWaqar = () => {
     <>
       <h1>Haris Waqar</h1>
       <Logo />
+
       <h1>Haris Waqar</h1>
+      <p>
+        Ho fatto un git checkout sul branch secondario, e poi fatto git rebase
+        di master
+      </p>
+
 
       {/* DOMANDA ES 4 */}
       <h3>
