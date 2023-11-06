@@ -61,6 +61,9 @@ const pageWaqar = () => {
 
       {/* Domanda ES 9 */}
       <p>Con git reset --soft oppure --hard posso tornare indietro nel tempo</p>
+
+      {/* Domanda ES 10 */}
+      <p>Angular è il framework più bello del mondo</p>
     </>
   );
 };
