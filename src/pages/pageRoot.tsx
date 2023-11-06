@@ -4,7 +4,7 @@ import { Link, Outlet } from "react-router-dom";
 const PageRoot = () => {
   return (
     <Stack>
-      <Flex w="full" p="1rem" bgColor="teal.400" color="white">
+      <Flex w="full" p="1rem" bgColor="cyan.500" color="white">
         <Heading as={Link} to="/">
           fullstackioni
         </Heading>
