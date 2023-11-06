@@ -64,6 +64,12 @@ const pageWaqar = () => {
 
       {/* Domanda ES 10 */}
       <p>Angular è il framework più bello del mondo</p>
+
+      {/* Domanda ES 11 */}
+      <p>
+        Con git stash posso sospendere temporaneamente le mie modifiche della
+        branch e lavorare su unaltra branch
+      </p>
     </>
   );
 };
