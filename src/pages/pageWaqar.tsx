@@ -1,5 +1,7 @@
 import Logo from "../components/waqar/Logo";
 
+import WaqarButton from "../components/waqar/WaqarButton";
+
 const pageWaqar = () => {
   return (
     <>
@@ -52,6 +54,10 @@ const pageWaqar = () => {
         Per correggere il messaggio di un commit si puo utilizzare il comando
         git commit --amend
       </p>
+
+      {/* Domanda ES 8 */}
+      <WaqarButton />
+      <p>Si puo splittare con $ git reset HEAD~</p>
     </>
   );
 };
