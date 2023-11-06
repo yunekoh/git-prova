@@ -58,6 +58,9 @@ const pageWaqar = () => {
       {/* Domanda ES 8 */}
       <WaqarButton />
       <p>Si puo splittare con $ git reset HEAD~</p>
+
+      {/* Domanda ES 9 */}
+      <p>Con git reset --soft oppure --hard posso tornare indietro nel tempo</p>
     </>
   );
 };
