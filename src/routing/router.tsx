@@ -4,6 +4,8 @@ import App from "../App";
 import PageError from "../pages/pageError";
 import PageReverberi from "../pages/pageReverberi";
 
+import PageWaqar from "../pages/pageWaqar";
+
 export const router = createBrowserRouter([
   {
     path: "/",
@@ -17,6 +19,11 @@ export const router = createBrowserRouter([
       {
         path: "reverberi",
         element: <PageReverberi />,
+      },
+
+      {
+        path: "waqar",
+        element: <PageWaqar />,
       },
     ],
   },
