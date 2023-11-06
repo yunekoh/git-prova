@@ -38,6 +38,13 @@ const pageWaqar = () => {
 
       {/* Domanda ES 6 */}
       <p>The weekend</p>
+      <p>Tom holland</p>
+      <p>Ronaldo</p>
+
+      <p>
+        Sì, esiste un modo per unire tutti i commit in un unico commit quando si
+        esegue il merge su master utilizzando il comando git merge --squash
+      </p>
     </>
   );
 };

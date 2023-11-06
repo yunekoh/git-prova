@@ -1,6 +1,13 @@
 import { Button, SimpleGrid, Stack } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
-import { users } from "./db/users";
+import { TypeUser } from "./types/types";
+
+const users: TypeUser[] = [
+  {
+    name: "Luca Reverberi",
+    path: "reverberi",
+  },
+];
 
 function App() {
   return (
