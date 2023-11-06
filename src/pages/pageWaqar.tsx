@@ -43,10 +43,15 @@ const pageWaqar = () => {
       <p>Ronaldo</p>
 
       <p>
-        sSì, esiste un modo per unire tutti i commit in un unico commit quando si
-        esegue il merge su master utilizzando il comando git merge --squash
+        sSì, esiste un modo per unire tutti i commit in un unico commit quando
+        si esegue il merge su master utilizzando il comando git merge --squash
       </p>
 
+      {/* Domanda ES 7 */}
+      <p>
+        Per correggere il messaggio di un commit si puo utilizzare il comando
+        git commit --amend
+      </p>
     </>
   );
 };
