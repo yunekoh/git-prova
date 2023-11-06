@@ -12,7 +12,6 @@ const pageWaqar = () => {
         di master
       </p>
 
-
       {/* DOMANDA ES 4 */}
       <h3>
         la mia branch dedicata è indietro di qualche commit rispetto a master,
@@ -36,6 +35,9 @@ const pageWaqar = () => {
         modificare la parola pick in corrispondenza dei commit che si vuole
         unire in squash.
       </p>
+
+      {/* Domanda ES 6 */}
+      <p>The weekend</p>
     </>
   );
 };
